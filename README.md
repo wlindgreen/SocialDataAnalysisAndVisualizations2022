@@ -1,4 +1,4 @@
 # SocialDataAnalysisAndVisualizations2022
 Repo for the Final Project in DTU course Social Data Analysis and Visualizations (2022)
 
-I order to run the project on you local machine, you should download the Jupyter Notebook "Final Project.ipynb" and all the additional data and images. You can download all the files as a zip. 
+I order to run the project on you local machine, you should download the Jupyter Notebook "Final Project.ipynb" and all the additional data and the folder 'Data' folder.
